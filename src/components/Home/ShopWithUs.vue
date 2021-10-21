@@ -52,7 +52,7 @@
                 <div style="text-align: center;">
                     <img v-bind:src="require('@/assets/accessories.jpg')" id="image"/>
                     <div>
-                        <p class="info">Accessories</p>
+                        <p class="info">Things</p>
                     </div>
                         
                 </div>
